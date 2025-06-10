@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Karan Parwani!
+# Hey there 👋, I'm Karan Parwani!
 
 🌟 Passionate Software Engineer | Blockchain Enthusiast | FinTech Innovator 🌟
 
