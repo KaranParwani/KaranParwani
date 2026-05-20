@@ -10,8 +10,6 @@ My recent work has focused heavily on:
 * Real-time WebSocket streaming systems
 * Distributed trading infrastructure
 * Risk & exposure monitoring systems
-* React Native wealth platforms
-* Cloud-native backend architectures
 
 I enjoy solving complex engineering problems around scalability, low-latency communication, distributed orchestration, and financial system reliability.
 
@@ -73,14 +71,6 @@ I enjoy solving complex engineering problems around scalability, low-latency com
 
 ---
 
-## Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge\&logo=expo\&logoColor=white)
-
----
-
 ## Databases & Messaging
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -111,7 +101,6 @@ I enjoy solving complex engineering problems around scalability, low-latency com
 * Distributed MT5 Tick Feed Infrastructure
 * Real-Time Financial Data Streaming
 * Risk Management Systems
-* Wealth Management Mobile Applications
 * FinTech Backend Scalability
 * WebSocket Optimization
 * Event-Driven Architectures
@@ -139,18 +128,6 @@ Developed backend services for:
 * Net deposit calculations
 * Credit & adjusted equity calculations
 * Trading analytics pipelines
-
-### 📱 Wealth Management Mobile App
-
-Building a React Native wealth platform inspired by modern investment applications with:
-
-* Portfolio management
-* Financial dashboards
-* Secure authentication
-* Investment product flows
-* Cross-platform support
-
----
 
 # 🌐 Connect With Me
 
